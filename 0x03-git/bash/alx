@@ -1,13 +1,1 @@
-<<<<<<< HEAD#
-#!/bin/bash
-#echo "ALX School" 
-#
-
-
-=======
-echo "ALX school"
-echo "The school is open!"
-#!/bin/bash
-echo "ALX School"
->>>>>>> update_script
-
+echo echo "ALX School" 

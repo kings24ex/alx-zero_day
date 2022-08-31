@@ -1,9 +1,11 @@
-<<<<<<< HEAD
-#!/bin/bash"
+<<<<<<< HEAD#
+#!/bin/bash
 #echo "ALX School" 
 #
+
+
 =======
-iecho "ALX school"
+echo "ALX school"
 echo "The school is open!"
 #!/bin/bash
 echo "ALX School"
